@@ -1,0 +1,9 @@
+909|360|787|Boeing|Viva Colmobia
+976|360|787|Boeing|Avianca
+900|360|787|Boeing|Avianca
+980|360|787|Boeing|LATAM
+926|360|787|Boeing|LATAM
+2131|3|qwdqw|dqqw|Avianca
+
+23131|0|123|222|Viva Colmobia
+
